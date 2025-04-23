@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c;
+    color: #f9f9f9;
+}
+header {
+    background-color: #444;
+    padding: 1rem;
+    text-align: center;
+}
+.slogan {
+    font-style: italic;
+    color: #e48ab1;
+}
+.intro, .produtos {
+    padding: 2rem;
+    background-color: #2d2d2d;
+    margin: 1rem;
+    border-radius: 8px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    margin-bottom: 0.5rem;
+}
+footer {
+    background-color: #444;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
